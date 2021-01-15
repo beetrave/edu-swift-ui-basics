@@ -7,19 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		67C5FA6725B1D0670014AFE3 /* MyGroupsViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C5FA6625B1D0670014AFE3 /* MyGroupsViewCell.swift */; };
+		67C5FA6C25B1D8780014AFE3 /* FoundGroupsViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C5FA6B25B1D8780014AFE3 /* FoundGroupsViewCell.swift */; };
+		67C5FA6F25B1D88A0014AFE3 /* FoundGroupsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C5FA6E25B1D88A0014AFE3 /* FoundGroupsViewController.swift */; };
+		67C5FA7325B1EEDF0014AFE3 /* FriendPhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C5FA7225B1EEDF0014AFE3 /* FriendPhotosViewController.swift */; };
+		67C5FA7625B1EF130014AFE3 /* FriendPhotoViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C5FA7525B1EF130014AFE3 /* FriendPhotoViewCell.swift */; };
+		67EB0FF825AE277200190DF2 /* FriendsListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67EB0FF725AE277200190DF2 /* FriendsListViewController.swift */; };
+		67EB0FFE25AE281200190DF2 /* MyGroupsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67EB0FFD25AE281200190DF2 /* MyGroupsViewController.swift */; };
+		67EB100425AE2C6F00190DF2 /* FriendsListViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67EB100325AE2C6E00190DF2 /* FriendsListViewCell.swift */; };
 		67F4107C25AC7587001CD5A9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67F4107B25AC7587001CD5A9 /* AppDelegate.swift */; };
 		67F4107E25AC7587001CD5A9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67F4107D25AC7587001CD5A9 /* SceneDelegate.swift */; };
-		67F4108025AC7587001CD5A9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67F4107F25AC7587001CD5A9 /* ViewController.swift */; };
+		67F4108025AC7587001CD5A9 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67F4107F25AC7587001CD5A9 /* LoginViewController.swift */; };
 		67F4108325AC7587001CD5A9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 67F4108125AC7587001CD5A9 /* Main.storyboard */; };
 		67F4108525AC758C001CD5A9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67F4108425AC758C001CD5A9 /* Assets.xcassets */; };
 		67F4108825AC758C001CD5A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 67F4108625AC758C001CD5A9 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		67C5FA6625B1D0670014AFE3 /* MyGroupsViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyGroupsViewCell.swift; sourceTree = "<group>"; };
+		67C5FA6B25B1D8780014AFE3 /* FoundGroupsViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoundGroupsViewCell.swift; sourceTree = "<group>"; };
+		67C5FA6E25B1D88A0014AFE3 /* FoundGroupsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoundGroupsViewController.swift; sourceTree = "<group>"; };
+		67C5FA7225B1EEDF0014AFE3 /* FriendPhotosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendPhotosViewController.swift; sourceTree = "<group>"; };
+		67C5FA7525B1EF130014AFE3 /* FriendPhotoViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendPhotoViewCell.swift; sourceTree = "<group>"; };
+		67EB0FF725AE277200190DF2 /* FriendsListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendsListViewController.swift; sourceTree = "<group>"; };
+		67EB0FFD25AE281200190DF2 /* MyGroupsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyGroupsViewController.swift; sourceTree = "<group>"; };
+		67EB100325AE2C6E00190DF2 /* FriendsListViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendsListViewCell.swift; sourceTree = "<group>"; };
 		67F4107825AC7587001CD5A9 /* social network client - test_app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "social network client - test_app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		67F4107B25AC7587001CD5A9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		67F4107D25AC7587001CD5A9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		67F4107F25AC7587001CD5A9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		67F4107F25AC7587001CD5A9 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		67F4108225AC7587001CD5A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		67F4108425AC758C001CD5A9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		67F4108725AC758C001CD5A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -37,6 +53,35 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		67C5FA6325B1CCF80014AFE3 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		67EB0FE525AE211000190DF2 /* GroupsTab */ = {
+			isa = PBXGroup;
+			children = (
+				67EB0FFD25AE281200190DF2 /* MyGroupsViewController.swift */,
+				67C5FA6625B1D0670014AFE3 /* MyGroupsViewCell.swift */,
+				67C5FA6E25B1D88A0014AFE3 /* FoundGroupsViewController.swift */,
+				67C5FA6B25B1D8780014AFE3 /* FoundGroupsViewCell.swift */,
+			);
+			path = GroupsTab;
+			sourceTree = "<group>";
+		};
+		67EB0FF025AE24F500190DF2 /* FriendsTab */ = {
+			isa = PBXGroup;
+			children = (
+				67EB0FF725AE277200190DF2 /* FriendsListViewController.swift */,
+				67EB100325AE2C6E00190DF2 /* FriendsListViewCell.swift */,
+				67C5FA7225B1EEDF0014AFE3 /* FriendPhotosViewController.swift */,
+				67C5FA7525B1EF130014AFE3 /* FriendPhotoViewCell.swift */,
+			);
+			path = FriendsTab;
+			sourceTree = "<group>";
+		};
 		67F4106F25AC7587001CD5A9 = {
 			isa = PBXGroup;
 			children = (
@@ -56,9 +101,12 @@
 		67F4107A25AC7587001CD5A9 /* social network client - test_app */ = {
 			isa = PBXGroup;
 			children = (
+				67C5FA6325B1CCF80014AFE3 /* Model */,
+				67EB0FF025AE24F500190DF2 /* FriendsTab */,
+				67EB0FE525AE211000190DF2 /* GroupsTab */,
 				67F4107B25AC7587001CD5A9 /* AppDelegate.swift */,
 				67F4107D25AC7587001CD5A9 /* SceneDelegate.swift */,
-				67F4107F25AC7587001CD5A9 /* ViewController.swift */,
+				67F4107F25AC7587001CD5A9 /* LoginViewController.swift */,
 				67F4108125AC7587001CD5A9 /* Main.storyboard */,
 				67F4108425AC758C001CD5A9 /* Assets.xcassets */,
 				67F4108625AC758C001CD5A9 /* LaunchScreen.storyboard */,
@@ -137,7 +185,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				67F4108025AC7587001CD5A9 /* ViewController.swift in Sources */,
+				67C5FA6F25B1D88A0014AFE3 /* FoundGroupsViewController.swift in Sources */,
+				67EB0FFE25AE281200190DF2 /* MyGroupsViewController.swift in Sources */,
+				67C5FA7325B1EEDF0014AFE3 /* FriendPhotosViewController.swift in Sources */,
+				67EB0FF825AE277200190DF2 /* FriendsListViewController.swift in Sources */,
+				67C5FA6725B1D0670014AFE3 /* MyGroupsViewCell.swift in Sources */,
+				67C5FA6C25B1D8780014AFE3 /* FoundGroupsViewCell.swift in Sources */,
+				67C5FA7625B1EF130014AFE3 /* FriendPhotoViewCell.swift in Sources */,
+				67EB100425AE2C6F00190DF2 /* FriendsListViewCell.swift in Sources */,
+				67F4108025AC7587001CD5A9 /* LoginViewController.swift in Sources */,
 				67F4107C25AC7587001CD5A9 /* AppDelegate.swift in Sources */,
 				67F4107E25AC7587001CD5A9 /* SceneDelegate.swift in Sources */,
 			);
